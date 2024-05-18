@@ -10,7 +10,7 @@
   <div class="wrapper">
     <h2 class="question">Apakah Kalian Sibuk?</h2>
     <img class="img alt"img"
-src="https://raw.githubsercontent.com/DzareDeveloper/img/main/AskCrush.png">
+src="https://images.app.goo.gl/DZfiB9R8JVgEHAV27">
    <div class=btn-group"> <button class="iya-btn>Iya</button> <button class="tidak-btn">Tidak</button>button>
    </div>
   </div>
